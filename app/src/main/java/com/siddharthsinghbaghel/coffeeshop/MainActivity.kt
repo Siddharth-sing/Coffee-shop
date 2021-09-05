@@ -1,4 +1,4 @@
-package com.siddharthsinghbaghel.ashuwebsite
+package com.siddharthsinghbaghel.coffeeshop
 
 
 import android.graphics.Bitmap

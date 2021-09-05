@@ -1,4 +1,4 @@
-package com.siddharthsinghbaghel.ashuwebsite
+package com.siddharthsinghbaghel.coffeeshop
 
 import org.junit.Test
 
